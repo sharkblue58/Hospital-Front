@@ -25,7 +25,7 @@
 
         </form>
         <div class="form-link">
-              <span>Already have an account?<a href="#" class="signup-up">Signup</a></span>
+              <span>Already have an account?<a href="./SignUp.vue" class="signup-up">Signup</a></span>
             </div> 
       </div>
       <div class="line"></div>

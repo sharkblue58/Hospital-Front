@@ -1,14 +1,20 @@
 <template>
   <SignIn />
+  <SignUp />
+  <AppointmentPage />
 </template>
 
 <script>
 
-import SignIn from './components/SignIn.vue';
+//import SignIn from './components/SignIn.vue';
+//import SignUp from './components/SignUp.vue';
+import AppointmentPage from './components/AppointmentPage';
 export default {
   name: 'App',
   components:{
-    SignIn
+    //SignIn,
+    //SignUp,
+    AppointmentPage,
   }
 
 }
